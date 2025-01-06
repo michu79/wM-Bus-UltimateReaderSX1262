@@ -39,7 +39,7 @@
 
 #define RADIO_RST_PIN               8
 
-#define RADIO_BUSY_PIN              33      //DIO1
+#define RADIO_BUSY_PIN              34      //DIO1
 
 #define RADIO_DIO0_PIN              9
 #define RADIO_DIO1_PIN              33
